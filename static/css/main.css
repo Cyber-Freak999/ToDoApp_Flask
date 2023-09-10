@@ -1,0 +1,45 @@
+body,
+html {
+  margin: 0;
+  font-family: sans-serif;
+  background-image: linear-gradient(-30deg, #e6f0fc, #bde5d1);
+}
+
+.content {
+  margin: 0 auto;
+  width: 400px;
+}
+
+h1,
+p {
+  text-align: center;
+}
+
+table,
+td,
+th {
+  border: 1px solid #aaa;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 10px;
+}
+
+th {
+  height: 30px;
+}
+
+td {
+  text-align: center;
+  padding: 5px;
+}
+
+.form {
+  margin: 10px;
+}
+
+#content {
+  width: 70%;
+}
